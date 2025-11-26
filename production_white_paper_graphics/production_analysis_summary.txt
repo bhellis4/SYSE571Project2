@@ -1,0 +1,30 @@
+PRODUCTION ML ANALYSIS SUMMARY
+==================================================
+
+Dataset Size: 3000 samples
+
+RISK SCORE ANALYSIS:
+--------------------
+Actual Mean: 63.56 (±18.43)
+Predicted Mean: 63.32 (±16.38)
+R² Score: 0.874
+RMSE: 6.531
+
+RESILIENCE SCORE ANALYSIS:
+-------------------------
+Actual Mean: 65.75 (±15.04)
+Predicted Mean: 65.43 (±12.86)
+R² Score: 0.874
+RMSE: 5.341
+
+RISK CATEGORY ANALYSIS:
+-----------------------
+Classification Accuracy: 0.441
+Actual Distribution:
+  Low Risk: 1215 (40.5%)
+  Medium Risk: 1086 (36.2%)
+  High Risk: 699 (23.3%)
+Predicted Distribution:
+  Low Risk: 1416 (47.2%)
+  Medium Risk: 71 (2.4%)
+  High Risk: 1513 (50.4%)

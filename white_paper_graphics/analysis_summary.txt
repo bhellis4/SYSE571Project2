@@ -1,0 +1,31 @@
+
+RISK & RESILIENCE ANALYSIS - KEY FINDINGS
+==========================================
+Dataset: 1000 individuals analyzed
+
+POPULATION DISTRIBUTION:
+- High Risk: 233/1000 (23.3%)
+- Medium Risk: 371/1000 (37.1%)
+- Low Risk: 396/1000 (39.6%)
+
+AVERAGE SCORES:
+- Overall Risk Score: 63.6 ± 18.4
+- Overall Resilience Score: 65.3 ± 14.9
+- Overall Net Risk: -1.7 ± 29.6
+
+HIGH RISK GROUP PROFILE:
+- Average Age: 42.2
+- Average Income: $95,813
+- Average Credit Score: 473
+- Unemployment Rate: 55.4%
+
+LOW RISK GROUP PROFILE:
+- Average Age: 55.2
+- Average Income: $143,505
+- Average Credit Score: 660
+- Full-time Employment Rate: 36.1%
+
+KEY CORRELATIONS:
+- Risk vs Credit Score: r = -0.383
+- Resilience vs Income: r = 0.464
+- Risk vs Age: r = -0.242
